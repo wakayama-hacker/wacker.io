@@ -8,6 +8,7 @@ body {
   font-family: Meiryo, "Hiragino Kaku Gothic ProN", sans-serif;
   font-size: 20px;
   color: #555555;
+  text-shadow: none;
 }
 p {
   line-height: 1.5;
@@ -62,6 +63,7 @@ hr.small {
 }
 .navbar-custom .navbar-brand {
   font-weight: 800;
+  text-shadow: none;
 }
 .navbar-custom .nav li a {
   text-transform: uppercase;
@@ -117,6 +119,7 @@ hr.small {
   }
   .navbar-custom.is-fixed .navbar-brand {
     color: #555555;
+    text-shadow: none;
   }
   .navbar-custom.is-fixed .navbar-brand:hover,
   .navbar-custom.is-fixed .navbar-brand:focus {
@@ -124,6 +127,7 @@ hr.small {
   }
   .navbar-custom.is-fixed .nav li a {
     color: #555555;
+    text-shadow: none;
   }
   .navbar-custom.is-fixed .nav li a:hover,
   .navbar-custom.is-fixed .nav li a:focus {
@@ -218,6 +222,7 @@ hr.small {
 }
 .post-preview > a {
   color: #555555;
+  text-shadow: none;
 }
 .post-preview > a:hover,
 .post-preview > a:focus {
@@ -243,6 +248,7 @@ hr.small {
 .post-preview > .post-meta > a {
   text-decoration: none;
   color: #555555;
+  text-shadow: none;
 }
 .post-preview > .post-meta > a:hover,
 .post-preview > .post-meta > a:focus {
@@ -383,6 +389,7 @@ form .row:first-child .floating-label-form-group {
 .pager .disabled > span {
   color: #808080;
   background-color: #555555;
+  text-shadow: none;
   cursor: not-allowed;
 }
 ::-moz-selection {
