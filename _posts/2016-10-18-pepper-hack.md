@@ -33,6 +33,6 @@ header-img: "img/2016-10-18-pepper.jpg"
 
 一番に思ったのは大丈夫か？ということ。同じネットワークに入れればやりたい放題なのね。。。
 
-でもおかげでいろいろ探ることができました。もう一度機会があれば[Leap Motion](https://www.leapmotion.com/?lang=jp)と繋げたいです。
+でもおかげでいろいろ探ることができました。もう一度機会があれば [Leap Motion](https://www.leapmotion.com/?lang=jp) と繋げたいです。
 
 最後に会場及びPepperを提供してくださったBig-U様ありがとうございました。
