@@ -1,13 +1,13 @@
 /*!
  * Clean Blog v1.0.0 (http://startbootstrap.com)
- * Copyright 2015 Start Bootstrap
+ * Copyright 2016 Start Bootstrap
  * Licensed under MIT (https://spdx.org/licenses/MIT)
  */
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: Meiryo, "Hiragino Kaku Gothic ProN", sans-serif;
   font-size: 20px;
-  color: #404040;
+  color: #555555;
 }
 p {
   line-height: 1.5;
@@ -24,9 +24,6 @@ h5,
 h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
-}
-a {
-  color: #404040;
 }
 a:hover,
 a:focus {
@@ -111,14 +108,14 @@ hr.small {
     transition: transform 0.3s;
   }
   .navbar-custom.is-fixed .navbar-brand {
-    color: #404040;
+    color: #555555;
   }
   .navbar-custom.is-fixed .navbar-brand:hover,
   .navbar-custom.is-fixed .navbar-brand:focus {
     color: #0085a1;
   }
   .navbar-custom.is-fixed .nav li a {
-    color: #404040;
+    color: #555555;
   }
   .navbar-custom.is-fixed .nav li a:hover,
   .navbar-custom.is-fixed .nav li a:focus {
@@ -195,7 +192,7 @@ hr.small {
   font-weight: 600;
 }
 .intro-header .post-heading .meta {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: Meiryo, "Hiragino Kaku Gothic ProN", sans-serif;
   font-style: italic;
   font-weight: 300;
   font-size: 20px;
@@ -212,7 +209,7 @@ hr.small {
   }
 }
 .post-preview > a {
-  color: #404040;
+  color: #555555;
 }
 .post-preview > a:hover,
 .post-preview > a:focus {
@@ -237,7 +234,7 @@ hr.small {
 }
 .post-preview > .post-meta > a {
   text-decoration: none;
-  color: #404040;
+  color: #555555;
 }
 .post-preview > .post-meta > a:hover,
 .post-preview > .post-meta > a:focus {
@@ -377,7 +374,7 @@ form .row:first-child .floating-label-form-group {
 .pager .disabled > a:focus,
 .pager .disabled > span {
   color: #808080;
-  background-color: #404040;
+  background-color: #555555;
   cursor: not-allowed;
 }
 ::-moz-selection {
@@ -400,4 +397,8 @@ img::-moz-selection {
 }
 body {
   webkit-tap-highlight-color: #0085a1;
+}
+.navbar,
+.post-heading {
+  text-shadow: 1px 1px 2px #444444;
 }

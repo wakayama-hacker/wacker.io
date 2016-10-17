@@ -1,9 +1,8 @@
 # Site settings
-title: Wacker - Advanced IT community in Wakayama Japan
+title: "和歌山のITコミュニティ Wacker"
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-copyright_name: Wacker
-description: "Wacker is a advanced IT community in Wakayama Japan"
+copyright_name: "Wacker"
+description: "和歌山のITエンジニアによるコミュニティ"
 baseurl: ""
 url: "http://wacker.io"
 github_username: wakayama-hacker
