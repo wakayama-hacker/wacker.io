@@ -1,0 +1,22 @@
+# Site settings
+title: Wacker - Advanced IT community in Wakayama Japan
+header-img: img/home-bg.jpg
+email: your-email@yourdomain.com
+copyright_name: Wacker
+description: "Wacker is a advanced IT community in Wakayama Japan"
+baseurl: ""
+url: "http://wacker.io"
+github_username: wakayama-hacker
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
