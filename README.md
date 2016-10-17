@@ -45,3 +45,19 @@ $ bundle exec jekyll serve
 ```
 
 以上が完了したら [http://127.0.0.1:4000/](http://127.0.0.1:4000/) にアクセスしてください。
+
+## CSSの編集
+
+必要な npm モジュールをインストール。
+
+```
+$ npm install
+```
+
+`less/` 以下にあるファイルを修正して、その後以下のコマンドを実行してください。
+
+```
+$ npm run build
+```
+
+JavaScriptを編集する場合は、`js/` 以下にある `clean-blog.js` を修正して、上記と同様に `npm run build` です。
