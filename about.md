@@ -15,7 +15,7 @@ Wackerで取り扱うテーマは、とても多様でウェブ系からハー�
 
 イベントの告知はDoorKeeperで行われます。参加をご希望の方はメンバー登録をお願いします。
 
-https://wacker.doorkeeper.jp/
+[https://wacker.doorkeeper.jp/](https://wacker.doorkeeper.jp/)
 
 Wackerでは勉強会の開催時に寄付を募っており、和歌山県内で定期的に勉強会を開催しているコミュニティ向けにDoorKeeperの有料プランを提供しています。
 
@@ -23,7 +23,7 @@ Wackerでは勉強会の開催時に寄付を募っており、和歌山県内�
 
 イベントの内容などはFacebookグループで話し合っています。公開グループなのでどなたでも参加できます。
 
-https://www.facebook.com/groups/1329180433777951/
+[https://www.facebook.com/groups/1329180433777951/](https://www.facebook.com/groups/1329180433777951/)
 
 ### GitHub
 
@@ -31,4 +31,4 @@ https://www.facebook.com/groups/1329180433777951/
 
 こちらに参加を希望の方は、Facebookグループで参加希望を表明してください。
 
-https://github.com/wakayama-hacker/
+[https://github.com/wakayama-hacker/](https://github.com/wakayama-hacker/)
