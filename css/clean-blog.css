@@ -25,6 +25,14 @@ h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
+.container h1,
+.container h2,
+.container h3,
+.container h4,
+.container h5,
+.container h6 {
+  margin: 1em 0;
+}
 a:hover,
 a:focus {
   color: #0085a1;
