@@ -40,3 +40,9 @@ Wackerでは勉強会の開催時に寄付を募っており、和歌山県内�
 こちらに参加を希望の方は、Facebookグループで参加希望を表明してください。
 
 [https://github.com/wakayama-hacker/](https://github.com/wakayama-hacker/)
+
+## サポーターについて
+
+Wacker は以下の企業のみなさまより、開催場所のご提供などでご協力をいただいています。
+
+* [和歌山県立情報交流センター Big・U](http://www.big-u.jp/)
