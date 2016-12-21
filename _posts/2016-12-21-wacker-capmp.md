@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "＃9 Wacker Camp(仮) & 忘年会"
+title:      "Wacker ＃9 Camp(仮) & 忘年会"
 date:       2016-12-20
 author:     "Yohei Taniguchi"
 header-img: "img/2016-12-20-wacker-camp.jpg"
